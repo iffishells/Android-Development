@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Block 7: Web Pages">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/block07_prototype.zip!/" />
+      <root url="jar://$PROJECT_DIR$/block07.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
